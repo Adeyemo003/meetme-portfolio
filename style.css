@@ -29,7 +29,7 @@ span{
   nav{
     display: flex;
     gap: 10px;
-    margin-left: auto;
+    /* margin-left: auto; */
     align-items: center;
     flex-grow: 0;
     flex-shrink: 0;
@@ -40,12 +40,13 @@ span{
     color: #8FD6E1;
     text-align: left;
     cursor: pointer;
+    font-size: small;
     font-family: 'Times New Roman', Times, serif;
   } 
  nav > a:hover{
     color: white;
     border-left: 4px solid #7B113A;
-    padding: 8px;
+    padding: 4px;
   }
 
   #name{
