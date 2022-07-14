@@ -1,1 +1,0 @@
-I created this fictional website that contains online portfolio for developers just to perrfect my FLEXBOX layout skills. Nothing much.![readme pic](https://user-images.githubusercontent.com/106268594/178841135-5ef04328-3526-4e8e-ac03-3b93a14a76fe.png)
